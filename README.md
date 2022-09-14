@@ -5,9 +5,9 @@
   - DevOps
   - CI/CD
   - Containerization and container orchestration platforms
-  - flying drones
-  - ultimate frisbee
-  - peloton
+  - Flying drones ~ DJI
+  - Ultimate frisbee
+  - Peloton
   - :metal: concerts
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have and like body :art:
