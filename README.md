@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on github-org-mgmt project
-- 🌱 I’m currently learning about GitHub action (CI/CD)
-- 👯 I’m looking to collaborate on CI/CD with Git Hub actions, Kubernetes projects, and IaC..
+- 🌱 I’m currently learning about GitHub actions (CI/CD) and Codespaces
+- 👯 I’m looking to collaborate on CI/CD with GitHub actions, Kubernetes projects, and IaC..
 - 💬 Ask me about my interests and hobbies
   - DevOps
   - CI/CD
