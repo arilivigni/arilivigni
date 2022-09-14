@@ -9,6 +9,5 @@
   - ultimate frisbee
   - peloton
   - :metal: concerts
-- 📫 How to reach me: ...
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I have and like body :art:
