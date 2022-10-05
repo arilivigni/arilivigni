@@ -10,4 +10,5 @@
   - Peloton
   - :metal: concerts
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I have and like body :art:
+- ⚡ Fun fact: I have and like body :art: aka tattoos
+  - [Horseshoes and Hand Grenades Tattoo](https://hshgtattoo.com/)
