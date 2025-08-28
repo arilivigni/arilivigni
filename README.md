@@ -1,10 +1,6 @@
-# Ari's current role
+# Ari's current role and passions
 
-Ari is a sr. cloud solutions architect on the Expert Services team at GitHub. Ari currently works with Microsoft and GitHub customers
-to improve DevSecOps and develops solutions to maximize efficiencies in how customers build, deliver, and deploy their software in a secure way. 
-Ari's main focus is with prompt engineering and crafting with generative AI vi GitHub Copilot and Copilot Chat to deliver training and deploying GitHub Copilot at scale to customers.
-When away from the keyboard he can be found cycling, hiking, playing ultimate frisbee, flying his drone, and coaching Lacrosse.
-
+Ari is a senior cloud solutions architect and learning evangelist, specializing in AI, DevSecOps, and cloud innovation. He designs and leads comprehensive trainings, workshops, and hackathons for GitHub and Microsoft customers, partners, and the wider developer community — all aimed at deepening knowledge of AI and DevSecOps practices while optimizing the software development lifecycle. A key part of Ari’s AI work focuses on prompt and context engineering, harnessing GitHub Copilot’s capabilities to deliver impactful training and deploy Copilot at scale for customers. Ari has also shared his expertise around the GitHub platform at various conferences as well as live podcasts, Microsoft, and GitHub Livestreams. and Outside of work, Ari enjoys cycling, hiking, ultimate frisbee, drone flying, and coaching lacrosse.
 ## Previous work
 
 In the past, Ari has had experience designing and implementing cloud, DevSecOps, and container orchestration solutions at AWS, Red Hat, and VMware for internal and external customers.
