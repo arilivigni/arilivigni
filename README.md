@@ -1,10 +1,11 @@
 # Ari's current role and passions
 
-Ari is a senior cloud solutions architect and learning evangelist, specializing in AI, DevSecOps, and cloud innovation. He designs and leads comprehensive trainings, workshops, and hackathons for GitHub and Microsoft customers, partners, and the wider developer community — all aimed at deepening knowledge of AI and DevSecOps practices while optimizing the software development lifecycle. A key part of Ari’s AI work focuses on prompt and context engineering, harnessing GitHub Copilot’s capabilities to deliver impactful training and deploy Copilot at scale for customers. Ari has also shared his expertise around the GitHub platform at various conferences as well as live podcasts, Microsoft livestreams, and GitHub livestreams. and Outside of work, Ari enjoys cycling, hiking, ultimate frisbee, drone flying, and coaching lacrosse.
+Ari is a **Sr. Learning Advocate and Agentic AI Developer at GitHub**, where he is responsible for designing and delivering **learning pathways and GitHub Skills** for both the GitHub and Microsoft communities,. His professional focus centers on enabling customers and partners to optimize their **Software Development Lifecycle (SDLC)** by implementing modern development practices and increasing efficiency through **Agentic powered development**. Ari shares his technical expertise by authoring **blog posts on Substack and the GitHub Blog**, covering topics such as GitHub Actions, the GitHub platform, GitHub Copilot, and AI-powered features within Visual Studio Code,,. Additionally, he maintains the **ContinuousG33k YouTube channel** and the **"GitHub Learn on Microsoft Reactor: GitHub Copilot" playlist**, which provide hands-on walkthroughs and vlogs aimed at making complex technical concepts accessible to developers of all skill levels.
+
 ## Previous work
 
 In the past, Ari has had experience designing and implementing cloud, DevSecOps, and container orchestration solutions at AWS, Red Hat, and VMware for internal and external customers.
-I also have previous experience designing and implementing cloud and DevOps solutions at AWS, Red Hat, and VMware for internal and external customers.
+He also have previous experience designing and implementing cloud and DevOps solutions at AWS, Red Hat, and VMware for internal and external customers.
 
 ### ⚡ Fun facts
 
